@@ -1,5 +1,3 @@
-import {Link} from "react-router-dom";
-import ReactPaginate from "react-paginate";
 import React, {useEffect} from "react";
 import BookService from "../../repository/BookRepository";
 
